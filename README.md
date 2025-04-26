@@ -1,1 +1,1 @@
-https://github.com/evgeniyredko/posmotri-v-okno-fd
+https://evgeniyredko.github.io/posmotri-v-okno/
